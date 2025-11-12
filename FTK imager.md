@@ -1,5 +1,5 @@
 ## Aim
-To verify the integrity of a forensic image using **FTK Imager** by comparing cryptographic hash values (MD5 and SHA1) of the acquired image with the original hash to ensure data integrity is preserved.
+To check whether the hash values of two forensic images differ slightly. Evaluate possible causes and justify whether integrity is compromised using FTK Imager
 
 ---
 
@@ -16,10 +16,13 @@ To verify the integrity of a forensic image using **FTK Imager** by comparing cr
 ---
 **Sample Output Screenshot:**
 
+![FTK Imager Verification Output](https://github.com/Krishnabhargav08/End-Semester-Practical/blob/main/images/Screenshot%20(6).png)
 
-![FTK Imager Verification Output](assets/ftk_verify_results.png)
+![FTK Imager Verification Output](https://github.com/Krishnabhargav08/End-Semester-Practical/blob/main/images/Screenshot%20(2).png)
 
-![FTK Imager Verification Output](assets/ftk_verify_results.png)
+![FTK Imager Verification Output](https://github.com/Krishnabhargav08/End-Semester-Practical/blob/main/images/Screenshot%20(5).png)
+
+![FTK Imager Verification Output](https://github.com/Krishnabhargav08/End-Semester-Practical/blob/main/images/Screenshot%20(4).png)
 
 
 ## Result
